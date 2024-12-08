@@ -16,6 +16,6 @@ do
     then
         max=$ping
     fi
-done << (cat list.txt| tail -n +4)
+done < <(cat list.txt| tail -n +4)
 
 echo "min/avg/max/total" $min"/"$(echo "$total/$count" | bc)""/""$max"/""$total"
