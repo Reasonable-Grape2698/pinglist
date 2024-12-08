@@ -8,13 +8,16 @@ do
     echo $output":" $ping" ms"
     export total=$(echo "$total+$ping" | bc)
     export count=$(echo "$count+1" | bc)
-    if (( $(echo "$ping < $min" | bc -l) ))
+    if ("$ping" != "FAIL")
     then
-        min=$ping
-    fi
-    if (( $(echo "$ping > $max" | bc -l) ))
-    then
-        max=$ping
+        if (( $(echo "$ping < $min" | bc -l) ))
+        then
+            min=$ping
+        fi
+        if (( $(echo "$ping > $max" | bc -l) ))
+        then
+            max=$ping
+        fi
     fi
 done < <(cat list.txt| tail -n +4)
 
