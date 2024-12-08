@@ -26,3 +26,5 @@ do
 done < <(cat list.txt| tail -n +4)
 
 echo "min/avg/max/total" $min"/"$(echo "$total/$count" | bc)""/""$max"/""$total"
+echo "min provider: "$mintxt
+echo "max provider: "$maxtxt
