@@ -3,174 +3,140 @@
 # Place all IPs below this line.  
 
 # LET favourites 
-# Hosthatch
-83.138.53.15 Amsterdam, NL (Equinix AM3)
-193.29.62.40 Chicago, US (CoreSite CH2)
-103.214.22.76 Hong Kong (Equinix HK1)
-150.107.201.10 London, UK (Iron Mountain LON01)
-185.197.30.30 Los Angeles, US (Telecom Center LA)
-185.175.56.60 Oslo, Norway (Blix BDC)
-103.167.150.90 Singapore (Racks Central)
-31.220.15.232 Stockholm, Sweden (Interxion STO4)
-194.29.100.26 Sydney, Australia (Equinix SY4)
-212.52.0.11 Tokyo, Japan (Equinix TY8)
-185.175.59.70 Vienna, Austria (Interxion VIE)
-45.91.92.92 Zurich, Switzerland (Interxion ZUR1)
 
-# racknerd
-204.13.154.3 # Los Angeles, CA, USA
-192.210.207.88 # San Jose, CA, USA
-192.3.253.2 # Seattle, WA, USA
-198.23.249.100 # Dallas, TX, USA
-198.23.228.15 # Chicago, IL, USA
-192.3.81.8 # New York, NY, USA
-192.3.254.158 # Ashburn, VA, USA
-107.173.164.160 # Atlanta, GA, USA
-45.95.173.2 # Strasbourg, France
-23.94.101.88 # Amsterdam, NL
-23.95.225.2 # Dublin, IE
+83.138.53.15 # Amsterdam, NL (Equinix AM3) 
+193.29.62.40 # Chicago, US (CoreSite CH2)
+103.214.22.76 # Hong Kong (Equinix HK1)
+150.107.201.10 # HostHatch London, UK (Iron Mountain LON01)
+185.197.30.30 # HostHatch Los Angeles, US (Telecom Center LA)
+185.175.56.60 # HostHatch Oslo, Norway (Blix BDC)
+103.167.150.90 # HostHatch Singapore (Racks Central)
+31.220.15.232 # HostHatch Stockholm, Sweden (Interxion STO4)
+194.29.100.26 # HostHatch Sydney, Australia (Equinix SY4)
+212.52.0.11 # HostHatch Tokyo, Japan (Equinix TY8)
+185.175.59.70 # HostHatch Vienna, Austria (Interxion VIE)
+45.91.92.92 # HostHatch Zurich, Switzerland (Interxion ZUR1)
 
-# Alphavps
-79.124.7.8 # Sofia, Bulgaria
-194.35.12.68 # Nuremberg, Germany
-130.185.251.6 # London, UK
-45.59.101.12 # Seattle, USA
-165.140.242.110 # New York, USA
-165.140.241.183 # Los Angeles, USA
+
+204.13.154.3 # racknerd Los Angeles, CA, USA
+192.210.207.88 # racknerd San Jose, CA, USA
+192.3.253.2 # racknerd Seattle, WA, USA
+198.23.249.100 # racknerd Dallas, TX, USA
+198.23.228.15 # racknerd Chicago, IL, USA
+192.3.81.8 # racknerd New York, NY, USA
+192.3.254.158 # racknerd Ashburn, VA, USA
+107.173.164.160 # racknerd Atlanta, GA, USA
+45.95.173.2 # racknerd Strasbourg, France
+23.94.101.88 # racknerd Amsterdam, NL
+23.95.225.2 # racknerd Dublin, IE
+79.124.7.8 # Alphavps Sofia, Bulgaria
+194.35.12.68 # Alphavps Nuremberg, Germany
+130.185.251.6 # Alphavps London, UK
+45.59.101.12 # Alphavps Seattle, USA
+165.140.242.110 # Alphavps New York, USA
+165.140.241.183 # Alphavps Los Angeles, USA
 45.59.100.4 # Dallas, USA
-
-# Colocrossing
-
-
-# OVH
-# OVH ASIA
-sin1.as16276.ovh
-sgp.as16276.ovh
-sin.as16276.ovh
-
-# OVH Australia 
-syd1.as16276.ovh
-syd.as16276.ovh
-
-# OVH EUROPE:
-de1.as16276.ovh # Germany 
-lim.as16276.ovh # Germany
-fra.as16276.ovh # Germany
-gra.as16276.ovh # France
-sbg.as16276.ovh # France
-rbx.as16276.ovh # France
-waw.as16276.ovh # Poland
-oza.as16276.ovh # Poland 
-uk1.as16276.ovh # England
-eri.as16276.ovh # England
-
-# OVH NORTH-AMERICA:
-bhs.as16276.ovh # Canada 
-us1.as16276.ovh # USA (East Coast)
-vin.as16276.ovh # USA (East Coast)
-us2.as16276.ovh # USA (West Coast)
-hil.as16276.ovh # USA (West Coast)
-
-# GlobalTeleHost
-142.202.49.166 # Ashburn (US)
-167.88.63.166 # Atlanta (US)
-162.251.60.175 # Chicago (US)
-167.88.62.166 # Dallas (US)
-139.64.164.166 # Denver (US)
-162.251.63.175 # Los Angeles (US)
-162.251.62.176 # Miami (US)
-142.202.48.166 # New York (US)
-172.99.191.166 # Phoenix (US)
-167.88.60.166 # Santa Clara (US)
-142.202.50.166 # Seattle (US)
-198.57.26.172 # Toronto (CA)
-158.51.120.166 # Montreal (CA)
-158.51.122.166 # Vancouver (CA)
-139.64.166.166 # Amsterdam (NL)
-193.108.116.176 # Frankfurt (DE)
-142.202.51.166 # London (UK)
-172.111.37.166 # Madrid (ES)
-139.64.167.166 # Paris (FR)
-134.195.199.166 # Zurich (CH)
-
-# Psychz.net
-108.181.89.251 # Dallas, USA
-108.181.140.235 # Chicago, USA
-108.181.134.142 # Ashburn, USA
-108.181.69.242 # Sao Paulo, Brazil
-108.181.67.248 # London, UK
-108.181.59.250 # Amsterdam, NL
-108.181.70.253 # Barcelona, Spain
-108.181.60.199 # Moscow, Russia
-108.181.120.247 # Johannesburg
-108.181.61.214 # Mumbai, India
-103.126.138.20 # Singapore
-103.59.110.170 # Taipei, Taiwan
-108.181.51.92 # Seoul, South Korea
-108.181.73.55 # Tokyo, Japan
-108.181.64.80 # Sydney, Australia
-
-# vultr Asia
-108.61.212.117 # Sydney, AU
-67.219.110.24 # Melbourne, AU
-108.61.201.151 # Tokyo
-64.176.162.16 # Tel Aviv
-141.164.34.61 # Seoul
-45.32.100.168 # Singapore
-64.176.34.94 # Osaka
-65.20.66.100 # Mumbai, India
-139.84.162.104 # Delhi, India
-139.84.130.100 # Bangladore, India
-139.84.226.78 # Johanesburg
-
-# vultr Europe
-108.61.198.102 # Amsterdam, NL
-108.61.210.117 # Frankfurt, Germany
-108.61.196.101 # London, UK
-208.76.222.30 # Madrid
-64.176.178.136 # Manchester, UK
-108.61.209.127 # Paris
-70.34.194.86 # Stockholm
-70.34.242.24 # Warsaw
-
-# vultr America
-108.61.193.166 # Atlanta
-107.191.51.12 # Chicago
-108.61.224.175 # Dallas
-208.72.154.76 # Honolulu
-108.61.219.200 # Los Angeles
-216.238.66.16 # Mexico City
-104.156.244.232 # Miami
-108.61.149.182 # New Jersey
-108.61.194.105 # Seattle
-104.156.230.107 # Sillicon Valley
-149.248.50.81 # Toronto
-
-# Vultr South America
+sin1.as16276.ovh # OVH Singapore
+sgp.as16276.ovh # OVH Singapore
+sin.as16276.ovh # OVH Singapore
+syd1.as16276.ovh # OVH Sydney
+syd.as16276.ovh # OVH Sydney
+de1.as16276.ovh # OVH Germany 
+lim.as16276.ovh # OVH Germany
+fra.as16276.ovh # OVH Germany
+gra.as16276.ovh # OVH France
+sbg.as16276.ovh # OVH France
+rbx.as16276.ovh # OVH France
+waw.as16276.ovh # OVH Poland
+oza.as16276.ovh # OVH Poland 
+uk1.as16276.ovh # OVH England
+eri.as16276.ovh # OVH England
+bhs.as16276.ovh # OVH Canada 
+us1.as16276.ovh # OVH USA (East Coast)
+vin.as16276.ovh # OVH USA (East Coast)
+us2.as16276.ovh # OVH USA (West Coast)
+hil.as16276.ovh # OVH USA (West Coast)
+142.202.49.166 # GlobalTeleHost Ashburn (US)
+167.88.63.166 # GlobalTeleHost Atlanta (US)
+162.251.60.175 # GlobalTeleHost Chicago (US)
+167.88.62.166 # GlobalTeleHost Dallas (US)
+139.64.164.166 # GlobalTeleHost Denver (US)
+162.251.63.175 # GlobalTeleHost Los Angeles (US)
+162.251.62.176 # GlobalTeleHost Miami (US)
+142.202.48.166 # GlobalTeleHost New York (US)
+172.99.191.166 # GlobalTeleHost Phoenix (US)
+167.88.60.166 # GlobalTeleHost Santa Clara (US)
+142.202.50.166 # GlobalTeleHost Seattle (US)
+198.57.26.172 # GlobalTeleHost Toronto (CA)
+158.51.120.166 # GlobalTeleHost Montreal (CA)
+158.51.122.166 # GlobalTeleHost Vancouver (CA)
+139.64.166.166 # GlobalTeleHost Amsterdam (NL)
+193.108.116.176 # GlobalTeleHost Frankfurt (DE)
+142.202.51.166 # GlobalTeleHost London (UK)
+172.111.37.166 # GlobalTeleHost Madrid (ES)
+139.64.167.166 # GlobalTeleHost Paris (FR)
+134.195.199.166 # GlobalTeleHost Zurich (CH)
+108.181.89.251 # Psychz.net Dallas, USA
+108.181.140.235 # Psychz.net Chicago, USA
+108.181.134.142 # Psychz.net Ashburn, USA
+108.181.69.242 # Psychz.net Sao Paulo, Brazil
+108.181.67.248 # Psychz.net London, UK
+108.181.59.250 # Psychz.net Amsterdam, NL
+108.181.70.253 # Psychz.net Barcelona, Spain
+108.181.60.199 # Psychz.net Moscow, Russia
+108.181.120.247 # Psychz.net Johannesburg
+108.181.61.214 # Psychz.net Mumbai, India
+103.126.138.20 # Psychz.net Singapore
+103.59.110.170 # Psychz.net Taipei, Taiwan
+108.181.51.92 # Psychz.net Seoul, South Korea
+108.181.73.55 # Psychz.net Tokyo, Japan
+108.181.64.80 # Psychz.net Sydney, Australia
+108.61.212.117 # vultr Sydney, AU
+67.219.110.24 # vultr Melbourne, AU
+108.61.201.151 # vultr Tokyo
+64.176.162.16 # vultr Tel Aviv
+141.164.34.61 # vultr Seoul
+45.32.100.168 # vultr Singapore
+64.176.34.94 # vultr Osaka
+65.20.66.100 # vultr Mumbai, India
+139.84.162.104 # vultr Delhi, India
+139.84.130.100 # vultr Bangladore, India
+139.84.226.78 # vultr Johanesburg
+108.61.198.102 # vultr Amsterdam, NL
+108.61.210.117 # vultr Frankfurt, Germany
+108.61.196.101 # vultr London, UK
+208.76.222.30 # vultr Madrid
+64.176.178.136 # vultr Manchester, UK
+108.61.209.127 # vultr Paris
+70.34.194.86 # vultr Stockholm
+70.34.242.24 # vultr Warsaw
+108.61.193.166 # vultr Atlanta
+107.191.51.12 # vultr Chicago
+108.61.224.175 # vultr Dallas
+208.72.154.76 # vultr Honolulu
+108.61.219.200 # vultr Los Angeles
+216.238.66.16 # vultr Mexico City
+104.156.244.232 # vultr Miami
+108.61.149.182 # vultr New Jersey
+108.61.194.105 # vultr Seattle
+104.156.230.107 # vultr Sillicon Valley
+149.248.50.81 # vultr Toronto
 64.176.2.7 # vultr Santiago
 216.238.98.118 # vultr Sao Paulo
-
-# rdp.sh
-2.58.56.10 # Amsterdam, NL
-142.202.240.153 # Phoenix, USA
-45.138.16.112 # Warsaw, Poland
-193.26.115.108 # Miami, USA
-
-# Iniz.com
-185.53.130.2 # Amsterdam, NL
-89.33.6.66 # Coventry (UK)
-107.161.163.163 # Piscataway, NJ (USA)
-107.181.135.135 # Dallas, TX (USA)
-
-# cloudzy.com
-172.86.96.153 # New York, USA
-45.61.129.54 # Las Vegas, USA
-167.88.160.228  Dallas / Texas, USA
-104.194.128.46 # London
-167.88.174.123 # Singapore
-104.194.133.41 # Amsterdam
-
-# Amsterdam asorted (will add more countries later)
+2.58.56.10 # rdp.sh Amsterdam, NL
+142.202.240.153 # rdp.sh Phoenix, USA
+45.138.16.112 # rdp.sh Warsaw, Poland
+193.26.115.108 # rdp.sh Miami, USA
+185.53.130.2 # Iniz.com Amsterdam, NL
+89.33.6.66 # Iniz.com Coventry (UK)
+107.161.163.163 # Iniz.com Piscataway, NJ (USA)
+107.181.135.135 # Iniz.com Dallas, TX (USA)
+172.86.96.153 # cloudzy.com New York, USA
+45.61.129.54 # cloudzy.com Las Vegas, USA
+167.88.160.228 # cloudzy.com Dallas / Texas, USA
+104.194.128.46 # cloudzy.com London
+167.88.174.123 # cloudzy.com Singapore
+104.194.133.41 # cloudzy.com Amsterdam
 103.214.68.4 # extravm.com Amsterdam, NL
 2.58.57.56 # hybula.net Amsterdam, NL
 193.142.146.46 # hostslick Limburg, Netherlands (HostSlick Datacenter)
@@ -182,15 +148,11 @@ hil.as16276.ovh # USA (West Coast)
 185.10.57.11 # AltusHost Amsterdam, NL
 217.195.153.179 # Shock hosting Amsterdam, NL (Equinix)
 185.197.162.82 # ua-hosting.company Amsterdam, NL (Maincubes)
-
-# Australia asorted
 146.185.214.47 # Gcore Sydney, AU
 203.96.177.151 # Shock Hosting (Equinix)
-
-# Singapore
-195.123.237.53 # ITL DC (Telstra)
-194.15.115.80 # Hosting International (Equinix)
-5.188.34.98 # Gcore
-103.20.235.208 # Shock Hosting (Rack Central)
-139.99.30.245 # SakuraServer (SakuraServer)
-23.27.101.2 # Kuroit
+195.123.237.53 # ITL DC (Telstra) Singapore
+194.15.115.80 # Hosting International (Equinix) Singapore
+5.188.34.98 # Gcore Singapore
+103.20.235.208 # Shock Hosting (Rack Central) Singapore
+139.99.30.245 # SakuraServer (SakuraServer) Singapore
+23.27.101.2 # Kuroit Singapore
