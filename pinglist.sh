@@ -8,11 +8,11 @@ do
     echo $output":" $ping" ms"
     export total=$(echo "$total+$ping" | bc)
     export count=$(echo "$count+1" | bc)
-    if (($ping < $min))
+    if (($ping < $min | bc))
     then
         min=$ping
     fi
-    if (($ping > $max))
+    if (($ping > $max | bc))
     then
         max=$ping
     fi
