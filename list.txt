@@ -16,8 +16,6 @@
 212.52.0.11 # HostHatch Tokyo, Japan (Equinix TY8)
 185.175.59.70 # HostHatch Vienna, Austria (Interxion VIE)
 45.91.92.92 # HostHatch Zurich, Switzerland (Interxion ZUR1)
-
-
 204.13.154.3 # racknerd Los Angeles, CA, USA
 192.210.207.88 # racknerd San Jose, CA, USA
 192.3.253.2 # racknerd Seattle, WA, USA
