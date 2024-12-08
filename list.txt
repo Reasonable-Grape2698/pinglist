@@ -2,8 +2,6 @@
 # Contact is John Mintz.  john.mintz@gmail.com  twitter @johnwmintz
 # Place all IPs below this line.  
 
-# LET favourites 
-
 83.138.53.15 # Amsterdam, NL (Equinix AM3) 
 193.29.62.40 # Chicago, US (CoreSite CH2)
 103.214.22.76 # Hong Kong (Equinix HK1)
