@@ -1,15 +1,15 @@
-export total=0
-export count=0
-export min=999
-export max=0
-export mintxt=""
-export maxtxt=""
+total=0
+count=0
+min=999
+max=0
+mintxt=""
+maxtxt=""
 while read output
 do
-    export ping=$(ping -4 -qc1 $(echo $output | cut -d "#" -f 1) 2>&1 | awk -F'/' 'END{ print (/^rtt/? $5:"FAIL") }')
+    ping=$(ping -4 -qc1 $(echo $output | cut -d "#" -f 1) 2>&1 | awk -F'/' 'END{ print (/^rtt/? $5:"FAIL") }')
     echo $output":" $ping" ms"
-    export total=$(echo "$total+$ping" | bc)
-    export count=$(echo "$count+1" | bc)
+    total=$(echo "$total+$ping" | bc)
+    count=$(echo "$count+1" | bc)
     if (( $(echo "$ping" != "FAIL" | bc -l) ))
     then
         if (( $(echo "$ping < $min" | bc -l) ))
