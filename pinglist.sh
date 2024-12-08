@@ -4,7 +4,7 @@ do
     echo $output":" $ping" ms"
     export total=$(echo "$total+$ping" | bc)
     export count=$(echo "$count+1" | bc)
-done < <(cat list.txt| tail -n +4 | )
+done < <(cat list.txt| tail -n +4)
 
 echo "Total: " $total
 echo "Average: " $(echo "$total/$count" | bc)
