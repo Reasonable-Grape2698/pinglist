@@ -1,6 +1,6 @@
 export total=0
 export count=0
-cat list.txt| tail -n +4 | while read -r line
+cat list.txt| tail -n +4 |  while read output
 do
     export ping=$(ping -4 -qc1 $(echo $output | cut -d "#" -f 1) 2>&1 | awk -F'/' 'END{ print (/^rtt/? $5:"FAIL") }')
     echo $output":" $ping" ms"
