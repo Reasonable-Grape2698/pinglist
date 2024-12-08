@@ -40,14 +40,11 @@ syd.as16276.ovh # OVH Sydney
 de1.as16276.ovh # OVH Germany 
 lim.as16276.ovh # OVH Germany
 fra.as16276.ovh # OVH Germany
-gra.as16276.ovh # OVH France
-sbg.as16276.ovh # OVH France
 rbx.as16276.ovh # OVH France
 waw.as16276.ovh # OVH Poland
 oza.as16276.ovh # OVH Poland 
 uk1.as16276.ovh # OVH England
 eri.as16276.ovh # OVH England
-bhs.as16276.ovh # OVH Canada 
 us1.as16276.ovh # OVH USA (East Coast)
 vin.as16276.ovh # OVH USA (East Coast)
 us2.as16276.ovh # OVH USA (West Coast)
