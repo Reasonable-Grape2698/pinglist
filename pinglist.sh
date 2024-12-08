@@ -8,7 +8,7 @@ do
     echo $output":" $ping" ms"
     export total=$(echo "$total+$ping" | bc)
     export count=$(echo "$count+1" | bc)
-    if (("$ping" != "FAIL"))
+    if (( $(echo "$ping != "FAIL") ))
     then
         if (( $(echo "$ping < $min" | bc -l) ))
         then
