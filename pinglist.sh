@@ -11,9 +11,11 @@ do
     if (($ping < $min))
     then
         min=$ping
+    fi
     if (($ping > $max))
     then
-        max=$ping 
+        max=$ping
+    fi
 done << (cat list.txt| tail -n +4)
 
 echo "min/avg/max/total" $min"/"$(echo "$total/$count" | bc)""/""$max"/""$total"
